@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.HLODLayer Name="EditorPaths_HLODLayer_Instanced"
+   Begin Object Class=/Script/WorldPartitionHLODUtilities.HLODBuilderInstancingSettings Name="HLODBuilderInstancingSettings_0"
+   End Object
+   Begin Object Name="HLODBuilderInstancingSettings_0"
+   End Object
+   HLODBuilderSettings="/Script/WorldPartitionHLODUtilities.HLODBuilderInstancingSettings'HLODBuilderInstancingSettings_0'"
+   LoadingRange=76800.000000
+   ParentLayer="/Script/Engine.HLODLayer'/Engine/WorldPartition/UnitTests/EditorPaths/EditorPaths_HLODLayer_Merged.EditorPaths_HLODLayer_Merged'"
+End Object

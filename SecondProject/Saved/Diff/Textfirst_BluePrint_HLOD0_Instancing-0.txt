@@ -1,0 +1,8 @@
+Begin Object Class=/Script/Engine.HLODLayer Name="first_BluePrint_HLOD0_Instancing"
+   Begin Object Class=/Script/WorldPartitionHLODUtilities.HLODBuilderInstancingSettings Name="HLODBuilderInstancingSettings_0"
+   End Object
+   Begin Object Name="HLODBuilderInstancingSettings_0"
+   End Object
+   HLODBuilderSettings="/Script/WorldPartitionHLODUtilities.HLODBuilderInstancingSettings'HLODBuilderInstancingSettings_0'"
+   bIsSpatiallyLoaded=False
+End Object
